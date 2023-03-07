@@ -1,0 +1,3 @@
+[submodule "repo/Fischertechnik-part-models"]
+	path = repo/Fischertechnik-part-models
+	url = https://github.com/Whth/Fischertechnik-part-models.git
